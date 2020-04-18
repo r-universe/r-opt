@@ -4,5 +4,23 @@
     "url": "https://github.com/r-opt/MOI",
     "via": ["ROIoptimzer"],
     "from": "ROIoptimzer"
+  },
+  {
+    "package": "MOI",
+    "url": "https://github.com/r-opt/MOI",
+    "via": ["rmpk"],
+    "from": "rmpk"
+  },
+  {
+    "package": "MOI",
+    "url": "https://github.com/r-opt/MOI",
+    "via": ["rmpk", "ROIoptimzer"],
+    "from": "rmpk"
+  },
+  {
+    "package": "ROIoptimizer",
+    "url": "https://github.com/r-opt/ROIoptimizer",
+    "via": ["rmpk"],
+    "from": "rmpk"
   }
 ]
