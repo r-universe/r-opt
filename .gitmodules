@@ -3,3 +3,18 @@
 	url = https://github.com/r-opt/universe
 	shallow = true
 	branch = HEAD
+[submodule "MOI"]
+	path = MOI
+	url = https://github.com/r-opt/MOI
+	shallow = true
+	branch = master
+[submodule "ROIoptimizer"]
+	path = ROIoptimizer
+	url = https://github.com/r-opt/ROIoptimizer
+	shallow = true
+	branch = master
+[submodule "rmpk"]
+	path = rmpk
+	url = https://github.com/r-opt/rmpk
+	shallow = true
+	branch = master
